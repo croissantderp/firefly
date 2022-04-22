@@ -27,3 +27,5 @@ The third is for the editing the patterns.<br />
 0,0,0,0,0,
 1,1,1,1,1
 ```
+
+(note: the last default animation is not made by me and is based on 'Bad Apple!!' by nomico)
