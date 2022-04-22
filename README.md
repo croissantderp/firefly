@@ -28,4 +28,7 @@ The third is for the editing the patterns.<br />
 1,1,1,1,1
 ```
 
-(note: the last default animation is not made by me and is based on 'Bad Apple!!' by nomico)
+# notes
+The last default animation currently **does not** work on the web build due to size issues and will freeze the program
+
+the last default animation is not made by me and is based on 'Bad Apple!!' by nomico
